@@ -2,7 +2,7 @@ button {
   padding: 1em;
   margin-bottom: 2em;
   border-radius: 10px;
-  background-color: maroon;
+  background-color: rebeccapurple;
   color: lemonchiffon;
   outline: none;
   border:none;
@@ -36,7 +36,7 @@ input:focus {
 }
 
 input#submit {
-  background-color: maroon;
+  background-color: rebeccapurple;
   color: lemonchiffon;
 }
 
