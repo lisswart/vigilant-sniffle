@@ -1,0 +1,45 @@
+button {
+  padding: 1em;
+  margin-bottom: 2em;
+  border-radius: 10px;
+  background-color: maroon;
+  color: lemonchiffon;
+  outline: none;
+  border:none;
+}
+
+button:focus {
+  background-color: midnightblue;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  font-weight: 900;
+  justify-content: center;
+  align-items: center;
+}
+
+input{
+  padding: 1em;
+  border-radius: 10px;
+  outline: none;
+  border:none;
+}
+
+input:hover {
+  background-color: honeydew;
+}
+
+input:focus {
+  background-color: mistyrose;
+}
+
+input#submit {
+  background-color: maroon;
+  color: lemonchiffon;
+}
+
+input#submit:focus {
+  background-color: midnightblue;
+}
